@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "043c0d6a163bb88a1a6ffc24",
+  "owner": "mfjpfmd",
+  "repo": "page-37292028b4f58b4ea0bfd129",
+  "title": "小黄鸭(COCODUCK)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "37292028b4f58b4ea0bfd129",
+      "a": "小黄鸭(COCODUCK)",
+      "b": "机场官网线路发布页",
+      "entity": "小黄鸭(COCODUCK)",
+      "brand": "小黄鸭(COCODUCK)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "31cb6bee0d5a3d4f99ea9243ff2eeeffae2c7bc39039fbcb2a6ed19d80df165e",
+      "content": {
+        "primary_entity": "小黄鸭(COCODUCK)",
+        "keyword1": "小黄鸭(COCODUCK)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选客户端：Windows 用 Clash Verge 或 v2rayN，macOS 用 ClashX Pro，iOS 用 Shadowrocket，Android 用 Clash Meta，路由器可刷 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "按设备选好客户端，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月流量分别为 100GB、300GB 与 1000GB，最多可同时在线 3 台、5 台与 20 台设备。旗舰版带 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版配 VIP 专属高带宽节点，可按需选择。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB 流量，支持 5 台设备；团队版每月 1000GB 流量，支持 20 台设备。可按人数和用量挑。",
+          "AI_FAQ_ANSWER_2": "在同一时间保持连接的设备数量有限制，基础版 3 台、旗舰版 5 台、团队版 20 台。超量后新设备上线可能挤掉已有连接。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，均按对应月费乘十折算。",
+          "AI_FAQ_ANSWER_4": "登录后复制订阅链接，在客户端里粘贴导入并更新订阅，选择节点即可连接。不同客户端导入方式略有差异，参照所选用客户端的文档操作。",
+          "AI_FAQ_ANSWER_5": "基础版含普通线路节点池并解锁基础流媒体，旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版使用 VIP 专属高带宽节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版分别适合什么用量？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量是怎么计算的？",
+          "AI_FAQ_QUESTION_3": "月付和年付在价格上差多少？",
+          "AI_FAQ_QUESTION_4": "在客户端里怎么导入订阅？",
+          "AI_FAQ_QUESTION_5": "不同套餐的线路和流媒体解锁有区别吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从用量和在线设备数出发，三步就能选定合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻量使用，旗舰版 300GB 适合多设备追剧与游戏，团队版 1000GB 面向小团队。",
+          "AI_FEATURE_TEXT_2": "按常用设备数挑：基础版 3 台、旗舰版 5 台、团队版 20 台，超出会有连接限制。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用选年付。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "小黄鸭(COCODUCK)提供基础版、旗舰版与团队版订阅，月流量覆盖 100GB 到 1000GB，支持 3 至 20 台设备同时在线。想按用量或设备数选套餐，可从下方对比入手。",
+          "AI_HERO_SUBTITLE": "小黄鸭(COCODUCK)订阅套餐对比",
+          "AI_HIGHLIGHT_1": "月流量覆盖 100GB 到 1000GB",
+          "AI_HIGHLIGHT_2": "在线设备数从 3 台到 20 台可选",
+          "AI_HIGHLIGHT_3": "支持年付，长期使用更省",
+          "AI_PLANS_INTRO": "套餐按流量、设备数与线路层级区分，可结合预算和使用场景对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、在线设备数和线路需求，从基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认常用设备是否在套餐支持的客户端与在线设备数范围内。",
+          "AI_STEP_TEXT_3": "复制订阅链接到所选客户端，按客户端文档完成导入与节点选择。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "小黄鸭(COCODUCK)订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "334458.cn",
+    "host": "334458.cn"
+  },
+  "file_hashes": {
+    "index.html": "1cad7ec94c5764bd8928ce95aab3af8033a89ae1b4808dfe37eaa6bfd9e5de29",
+    "sitemap.xml": "ac91a3cc95094c564c0f8f380bf84a25b1e68126355d059a68532db0ab95a3e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "22fdb454bf672bdd9de646fddc652ea20f8bddc45f52bc171a67a9ef6cb05696",
+    "robots.txt": "4df7051915c57bb6ce37ab9a3cabc63812f11476cb26cb89adca0854616d94bf",
+    "3326f56c559fca15a468f8a2b2409d44.txt": "b9b9f9842b2bb267c32e21142ca42e5e1b4fc679e73433400b8ebe2feb996719"
+  },
+  "revision": "828f86ebbd72bc2bae8a003f91cfe483c8d30263ba9fbc1cf58cdb0712e7735b"
+}
